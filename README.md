@@ -1,4 +1,4 @@
-# oop-design-patterns-strategy
+# strategy pattern basic example
 
 Basic example of how to implement Strategy pattern.
 
